@@ -1,0 +1,8 @@
+application: testes-ferreira
+version: alpha-001
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: home.php
